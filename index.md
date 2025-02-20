@@ -1,7 +1,6 @@
 **Andrew Marcos Flores**
 
 | San Antonio, TX | andrew.m.flores76@gmail.com  |
-| :---- | ----: |
 
 **Professional Summary:**  
 **I am a reliable and hard working senior at CAST Tech HS. I enjoy constantly educating myself in cybersecurity and computer science topics. I am particularly skilled at leading and working with teams, as well as collaborating with other departments in reaching our goals. I enjoy working technology and problem solving anything they throw at me.**  
@@ -46,5 +45,5 @@
 
 **Dual Credit:**
 
-* **UTSA**  
-* **SAC**
+* **University of Texas at San Antonio**  
+* **San Antonio College**
