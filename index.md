@@ -3,7 +3,7 @@
 | San Antonio, TX | andrew.m.flores76@gmail.com  |
 
 **Professional Summary:**  
-**I am a reliable and hard working senior at CAST Tech HS. I enjoy constantly educating myself in cybersecurity and computer science topics. I am particularly skilled at leading and working with teams, as well as collaborating with other departments in reaching our goals. I enjoy working technology and problem solving anything they throw at me.**  
+**I am a reliable and hard working senior at CAST Tech HS. I enjoy constantly educating myself in cybersecurity and computer science topics. I am particularly skilled at leading and working with teams, as well as collaborating with other departments in reaching our goals. I enjoy working with technology and problem solving anything it throw at me.**  
 **Skills and Abilities:**
 
 * **Confident communicator**  
@@ -37,6 +37,7 @@
 * **Deloitte Alamo ACE “Capture The Flag” HS Division Champion**  
 * **2024 AP Scholar Award**  
 * **2024-2025 1st Nine Weeks High Honor Roll; 2nd Nine Weeks Honor Roll**
+* Senior Class of 2025 Officer
 
 **Education:**  
 **CAST Tech HS**
