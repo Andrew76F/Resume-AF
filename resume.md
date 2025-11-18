@@ -23,10 +23,14 @@
   * **6 years as team leader**  
   * **Specialized in securing Windows operating systems**  
   * **Attended San Antonio CyberTexas Mayor’s Cup 3 years in a row.**
+* **Alamo ACE Deloitte Capture The Flag (2023-2024)**
+  * **Attended with CAST Tech HS for 2 years**
+  * **CAST Tech awarded champions in 2024**
+  * **Specialized in Log Analysis, AI manipulation, Network Traffic Analysis and Cryptography**
 * **National Cyber League Competition 2025**
   * **Top 20th percentile in individual ranking**
   * **Top 2% in team ranking with a group of 7 at St. Philip's College**
-  * **Specialized in Password Cracking and OSINT in both games**
+  * **Specialized in Password Cracking, Log Analysis, Network Traffic Analysis and OSINT in both games**
  
 **Skills and Abilities:**
 
