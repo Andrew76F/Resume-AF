@@ -27,6 +27,7 @@
   * **Top 20th percentile in individual ranking**
   * **Top 2% in team ranking with a group of 7 at St. Philip's College**
   * **Specialized in Password Cracking and OSINT in both games**
+ 
 **Skills and Abilities:**
 
 * **Confident communicator**  
