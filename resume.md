@@ -1,4 +1,3 @@
-
 **Andrew Flores**  
 **San Antonio, TX**
  andrew.m.flores76@gmail.com  |
