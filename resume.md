@@ -3,7 +3,7 @@
  andrew.m.flores76@gmail.com  |
 
 **Professional Summary:**  
-**I am a competitive and adaptable undergraduate at St. Philip's College in the Associates of Applied Science in Cybersecuirty. I have 4 summers of internships under my belt ranging from school districts and municipalities, all the way to corporations of \+700k employees. I educate myself in cybersecurity through certifications and competitions/**
+**I am a competitive and adaptable undergraduate at St. Philip's College in the Associates of Applied Science in Cybersecurity. I have 4 summers of internships under my belt ranging from school districts and municipalities, all the way to corporations of \+700k employees. I educate myself in cybersecurity through certifications and competitions/**
 
 **Experience:**
 
